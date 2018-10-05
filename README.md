@@ -17,7 +17,7 @@ $ npm install
 ```
 $ npm run start
 ```
-* At home, you need to build first, then start the dev server
+* (this message is just for me...) At home, on your Windows machine, you need to build first, then start the dev server
 ```
 $ npm run build
 $ webpack-dev-server --open --mode development
